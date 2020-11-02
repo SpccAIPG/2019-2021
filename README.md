@@ -24,5 +24,5 @@ Research status: Complete
 Github status: Paper uploaded; Code Uploading...
 ## Non-line-of-sight (NLOS) object classification 
 Authors: Lee Shun Yat, Tang Justin Kit Hang, Luo Steven Tin Sui  
-Research status: On-going (preliminary research)
+Research status: On-going (preliminary research)  
 Github status: Preliminary investigation results uploaded
