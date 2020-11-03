@@ -1,4 +1,5 @@
 # 2019-2020 Research by SPCC-AIPG
+20-member AI Project Group from St. Paul's Co-educational College HK. Our mission is to create a culture for AI and technological research in our school. To view our papers, investigations, and presentations, feel free to check out the "DOCS" folder.  
 ## Cantonese Lip Reading
 ![Teaser image](./LipReading_SOTA_model_updated.png)  
 **Picture:** *Proposed architecture of our state-of-the-art cantonese lip reading model.*  
