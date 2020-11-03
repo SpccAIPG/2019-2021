@@ -40,7 +40,7 @@ Ally Lo, Grace Tong, Luo Steven Tin Sui, Olga Chan
 **Github status:** Paper uploaded; Code Uploading...
 ## Non-line-of-sight (NLOS) object classification 
 ![Teaser image](./NLOS_blue_combine.png)  
-**Picture:** *From left to right: Shadow image, Gaussian amplified with a.p. factor of 100 {blue correction tape, blue matt ornament, blue bug, blue pen sharpener, blue matt ornament}*
+**Picture:** *From left to right: Shadow image, Gaussian amplified with a.p. factor of 100 {blue correction tape, blue matt ornament, blue bug, blue pen sharpener, blue matt ornament}*  
 **Authors:**  
 Lee Shun Yat, Tang Justin Kit Hang, Luo Steven Tin Sui  
 **Research status:** On-going (preliminary research)  
