@@ -4,6 +4,9 @@
 Luo Steven Tin Sui, Woody Lam, Julian Chu, Samuel Yau  
 **Awards:**  
 Special Prize -- First Sensetime International Artificial Intelligence Fair; Champion -- Sensetime x CUHK AI Competition for Secondary Schools; Intel ISEF Regional Finalist  
+
+> **Abstract:** *In this paper, we would present to you our method of data collection, data preprocessing, and evaluate the different models trained upon our dataset. Our work is divided into 3 main stages: 1) comparing CNN and LSTM models with both raw pixel data and dotpos data, 2) combining CNN and LSTM to improve model performance, and 3) building models using both dotpos data and raw pixel data at the same time to build a more robust model. This works serves as a direction for lip reading as well as video processing in general.*  
+
 **Research status:** Complete  
 **Github status:** Paper uploaded; Code Uploading...
 ## Novel Eye-to-face Synthesis with Standard Deviation Loss
