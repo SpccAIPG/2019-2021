@@ -15,6 +15,7 @@ Rex Tse, Luo Steven Tin Sui, Peter Ng, Ronnie Jok
 **Awards:**  
 1st Prize -- Second Sensetime International Artificial Intelligence Fair  
 > **Abstract:** *Smart surveillance technology is becoming increasingly prevalent nowadays with the rise of artificial intelligence aiming for more precise and effective security systems, where face recognition is an important part of it. While the technology of identifying faces has been rapidly growing, in some cases, surveillance cameras can only catch some parts of a face, where computer generation of the whole face comes handy. To address this issue, this paper proposes a new Standard Deviation Loss to increase variety of output images, eliminating mode collapse, along with an approach for eye-to-face synthesis by using a generative autoencoder model with feature loss (using the VGG19 model).*  
+
 **Research status:** On-goiing and preparing for publication    
 **Github status:** Paper uploaded; Code Uploading...
 ## Real-time Singing Voice Vocal Register Classification
