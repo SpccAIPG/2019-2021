@@ -29,7 +29,7 @@ Luo Steven Tin Sui, Justin Lam, Angel Au
 **Authors:**  
 Chan Lap Yan Lennon, Luo Steven Tin Sui, Kong Chi Yui, Cheng Shing Chi Justin  
 **Research status:**  
-On-goiing and preparing for publication  
+On-going and preparing for publication  
 **Github status:** Paper uploaded; Code Uploading...
 ## Computational Content Classification of Traditional Chinese poems
 **Authors:**  
