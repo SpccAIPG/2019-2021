@@ -39,6 +39,8 @@ Ally Lo, Grace Tong, Luo Steven Tin Sui, Olga Chan
 **Research status:** Complete  
 **Github status:** Paper uploaded; Code Uploading...
 ## Non-line-of-sight (NLOS) object classification 
+![Teaser image](./NLOS_blue_combine.png)  
+**Picture:** *pending*
 **Authors:**  
 Lee Shun Yat, Tang Justin Kit Hang, Luo Steven Tin Sui  
 **Research status:** On-going (preliminary research)  
