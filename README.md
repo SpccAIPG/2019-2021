@@ -26,6 +26,8 @@ Luo Steven Tin Sui, Justin Lam, Angel Au
 **Research status:** Complete  
 **Github status:** Paper uploaded; Code Uploading...
 ## Novel Font Style Transfer Across Multiple Languages with Double KL-Divergence Loss
+![Teaser image](./DoubleKL_methodology.png)  
+**Picture:** *Training pipeline to utilize double KL-divergence loss*  
 **Authors:**  
 Chan Lap Yan Lennon, Luo Steven Tin Sui, Kong Chi Yui, Cheng Shing Chi Justin  
 **Research status:**  
