@@ -1,6 +1,6 @@
 # 2019-2020 Research by SPCC-AIPG
 ## Cantonese Lip Reading
-![Teaser image](./LipReading_SOTA_model.png)  
+![Teaser image](./LipReading_SOTA_model_updated.png)  
 **Picture:** *Proposed architecture of our state-of-the-art cantonese lip reading model.*  
 
 **Authors:**  
