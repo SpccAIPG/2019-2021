@@ -16,6 +16,8 @@ Rex Tse, Luo Steven Tin Sui, Peter Ng, Ronnie Jok
 **Research status:** On-goiing and preparing for publication    
 **Github status:** Paper uploaded; Code Uploading...
 ## Real-time Singing Voice Vocal Register Classification
+![Teaser image](./VocalNET_1Dvs2D.png)
+**Picture:** *Comparing performance among 1D-CNN convolving on time-axis, 1D-CNN convolving on frequency-axis, and 2D-CNN convolving on entire STFT*
 **Authors:**  
 Luo Steven Tin Sui, Justin Lam, Angel Au  
 **Awards:**  
