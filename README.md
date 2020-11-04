@@ -7,7 +7,7 @@
 - [Real-time Singing Voice Vocal Register Classification](#Real-time-Singing-Voice-Vocal-Register-Classification)
 - [Novel Font Style Transfer Across Multiple Languages with Double KL-Divergence Loss](#Novel-Font-Style-Transfer-Across-Multiple-Languages-with-Double-KL-Divergence-Loss)
 - [Computational Content Classification of Traditional Chinese poems](#Computational-Content-Classification-of-Traditional-Chinese-poems)
-- [Non-line-of-sight (NLOS) object classification ](#Non-line-of-sight-(NLOS)-object-classification)
+- [Non-line-of-sight (NLOS) object classification ](#Non-line-of-sight-(NLOS)-Object-Classification )
 
 ## Cantonese Lip Reading
 ![Teaser image](./LipReading_SOTA_model_updated.png)  
@@ -67,7 +67,7 @@ On-going and preparing for publication
 Ally Lo, Grace Tong, Luo Steven Tin Sui, Olga Chan  
 **Research status:** Complete  
 **Github status:** Paper uploaded; Code Uploading...
-## Non-line-of-sight (NLOS) object classification 
+## Non-line-of-sight (NLOS) Object Classification 
 ![Teaser image](./NLOS_blue_combine.png)  
 **Picture:** *From left to right: Shadow image, Gaussian amplified with a.p. factor of 100 {blue correction tape, blue matt ornament, blue bug, blue pen sharpener, blue matt ornament}*  
 
