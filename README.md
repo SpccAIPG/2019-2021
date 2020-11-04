@@ -2,7 +2,7 @@
 20-member AI Project Group from St. Paul's Co-educational College HK. Our mission is to create a culture for AI and technological research in our school. To view our papers, investigations, and presentations, feel free to check out the "DOCS" folder.  
 
 ## Research list
-- [Cantonese Lip Reading](#Cantonese Lip Reading)
+- [Cantonese Lip Reading](#Cantonese-Lip-Reading)
 - [Novel Eye-to-face Synthesis with Standard Deviation Loss](#Novel Eye-to-face Synthesis with Standard Deviation Loss)
 - [Real-time Singing Voice Vocal Register Classification](#Real-time Singing Voice Vocal Register Classification)
 - [Novel Font Style Transfer Across Multiple Languages with Double KL-Divergence Loss](#Novel Font Style Transfer Across Multiple Languages with Double KL-Divergence Loss)
