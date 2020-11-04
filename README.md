@@ -11,7 +11,7 @@
 
 ## Cantonese Lip Reading
 ![Teaser image](./LipReading_SOTA_model_updated.png)  
-**Picture:** *Proposed architecture of our state-of-the-art cantonese lip reading model.*  
+**Picture:** *Proposed architecture of our state-of-the-art cantonese lip reading model. Upper layer takes raw videos as input. Lower layer takes normalized lip-boundary coordinates as input*  
 
 **Authors:**  
 Luo Steven Tin Sui, Woody Lam, Julian Chu, Samuel Yau  
