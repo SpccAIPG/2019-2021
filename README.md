@@ -5,7 +5,7 @@
 - [Cantonese Lip Reading](#Cantonese-Lip-Reading)
 - [Novel Eye-to-face Synthesis with Standard Deviation Loss](#Novel-Eye-to-face-Synthesis-with-Standard-Deviation-Loss)
 - [Real-time Singing Voice Vocal Register Classification](#Real-time-Singing-Voice-Vocal-Register-Classification)
-- [Novel Font Style Transfer Across Multiple Languages with Double KL-Divergence Loss](#Novel-Font Style-Transfer-Across-Multiple-Languages-with-Double-KL-Divergence-Loss)
+- [Novel Font Style Transfer Across Multiple Languages with Double KL-Divergence Loss](#Novel-Font-Style-Transfer-Across-Multiple-Languages-with-Double-KL-Divergence-Loss)
 - [Computational Content Classification of Traditional Chinese poems](#Computational-Content-Classification-of-Traditional-Chinese-poems)
 - [Non-line-of-sight (NLOS) object classification ](#Non-line-of-sight-(NLOS)-object-classification )
 
