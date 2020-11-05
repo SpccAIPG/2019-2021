@@ -1,5 +1,5 @@
 <a href="https://github.com/spccaipg/">
-    <img src="https://github.com/spccaipg/2019-2020/AIPG_logo.png" alt="AIPG logo" title="AIPG" align="right" height="60" />
+    <img src="https://github.com/spccaipg/2019-2020/AIPG_clean_logo_by_IsaacLee.png" alt="AIPG logo" title="AIPG" align="right" height="60" />
 </a>
 
 # 2019-2020 Research by SPCC-AIPG
