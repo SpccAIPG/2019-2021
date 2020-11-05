@@ -1,3 +1,7 @@
+<a href="https://github.com/spccaipg/">
+    <img src="https://github.com/spccaipg/2019-2020/AIPG_logo.png" alt="AIPG logo" title="AIPG" align="right" height="60" />
+</a>
+
 # 2019-2020 Research by SPCC-AIPG
 20-member AI Project Group from St. Paul's Co-educational College HK. Our mission is to create a culture for AI and technological research in our school. To view our papers, investigations, and presentations, feel free to check out the "DOCS" folder.  
 
