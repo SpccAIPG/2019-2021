@@ -22,6 +22,9 @@ Luo Steven Tin Sui, Woody Lam, Julian Chu, Samuel Yau
 **Awards:**  
 Special Prize -- First Sensetime International Artificial Intelligence Fair; Champion -- Sensetime x CUHK AI Competition for Secondary Schools; Intel ISEF Regional Finalist  
 
+**Paper:**
+[PDF of paper](https://github.com/SpccAIPG/2019-2020/blob/main/DOCS/PDF/Cantonese%20Lip%20Reading.pdf)
+
 > **Abstract:** *In this paper, we would present to you our method of data collection, data preprocessing, and evaluate the different models trained upon our dataset. Our work is divided into 3 main stages: 1) comparing CNN and LSTM models with both raw pixel data and dotpos data, 2) combining CNN and LSTM to improve model performance, and 3) building models using both dotpos data and raw pixel data at the same time to build a more robust model. This works serves as a direction for lip reading as well as video processing in general.*  
 
 **Research status:** Complete  
@@ -34,7 +37,8 @@ Special Prize -- First Sensetime International Artificial Intelligence Fair; Cha
 Rex Tse, Luo Steven Tin Sui, Peter Ng, Ronnie Jok  
 **Awards:**  
 1st Prize -- Second Sensetime International Artificial Intelligence Fair  
-
+**Paper:**
+[PDF of paper](https://github.com/SpccAIPG/2019-2020/blob/main/DOCS/PDF/From%20an%20Eye%20to%20a%20Face%20A%20Novel%20Approach%20to%20Surveillance%20and%20Identity%20Reconstruction.pdf)
 > **Abstract:** *Smart surveillance technology is becoming increasingly prevalent nowadays with the rise of artificial intelligence aiming for more precise and effective security systems, where face recognition is an important part of it. While the technology of identifying faces has been rapidly growing, in some cases, surveillance cameras can only catch some parts of a face, where computer generation of the whole face comes handy. To address this issue, this paper proposes a new Standard Deviation Loss to increase variety of output images, eliminating mode collapse, along with an approach for eye-to-face synthesis by using a generative autoencoder model with feature loss (using the VGG19 model).*  
 
 **Research status:** On-going and preparing for publication    
@@ -47,6 +51,8 @@ Rex Tse, Luo Steven Tin Sui, Peter Ng, Ronnie Jok
 Luo Steven Tin Sui, Justin Lam, Angel Au  
 **Awards:**  
 2nd Prize -- Second Sensetime International Artificial Intelligence Fair  
+**Paper:**
+[PDF of paper](https://github.com/SpccAIPG/2019-2020/blob/main/DOCS/PDF/VocalNet%20A%20solution%20for%20real-time%20singing%20voice%20vocal%20register%20classification.pdf)
 
 > **Abstract:** *In recent decades, many researchers have looked into various areas of music using artificial intelligence, including creative music generation, synthesis of singing voice and musical style transfer, etc. Currently, most voice-related classification papers have placed their focus on speech identification rather than singing voice, placing an emphasis on Support Vector Machines (SVMs) and the use of Mel-frequency cepstral coefficients (MFCCs). To explore the area of singing voice, we have created a model to identify and classify various timbres of different vocal registers through quantitative analysis, which could aid amateur singers on their journey of learning about singing and improving their singing techniques. Four chosen vocal registers, chest voice, mixed voice, head voice and whistle register were classified by our model as they are the most common vocal registers. Our dataset consists of extracted vocals from professionally produced songs and opera singing datasets that are available online. Convolutional Neural Networks were used in several experimental stages and results yielded proved its ability to classify for singing voice vocal registers in real time Our model has showed its capacity to be applied in real-time conditions, with an accuracy of (bruh) in our training and validation dataset. Looking into the future, we look forward to training our model with an extensive dataset and implementing the model in an appropriate medium such as an application.*  
 
@@ -60,6 +66,8 @@ Luo Steven Tin Sui, Justin Lam, Angel Au
 
 **Authors:**  
 Chan Lap Yan Lennon, Luo Steven Tin Sui, Kong Chi Yui, Cheng Shing Chi Justin  
+**Paper:**
+[PDF of paper](https://github.com/SpccAIPG/2019-2020/blob/main/DOCS/PDF/Universal%20Solution%20to%20Extension%20and%20Translation%20of%20Fonts%20Across%20Languages.pdf)
 **Research status:**  
 On-going and preparing for publication  
 **Github status:** Paper uploaded; Code Uploading...
@@ -69,6 +77,8 @@ On-going and preparing for publication
 
 **Authors:**  
 Ally Lo, Grace Tong, Luo Steven Tin Sui, Olga Chan  
+**Paper:**
+[PDF of paper](https://github.com/SpccAIPG/2019-2020/blob/main/DOCS/PDF/Computational%20Content%20Classification%20of%20Traditional%20Chinese%20poems.pdf)
 **Research status:** Complete  
 **Github status:** Paper uploaded; Code Uploading...
 ## Non-line-of-sight (NLOS) Object Classification 
