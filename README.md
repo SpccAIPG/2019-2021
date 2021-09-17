@@ -38,6 +38,7 @@ Rex Tse, Luo Steven Tin Sui, Peter Ng, Ronnie Jok
 1st Prize -- Second Sensetime International Artificial Intelligence Fair  
 **Paper:**
 [PDF of paper](https://github.com/SpccAIPG/2019-2020/blob/main/DOCS/PDF/From%20an%20Eye%20to%20a%20Face%20A%20Novel%20Approach%20to%20Surveillance%20and%20Identity%20Reconstruction.pdf)
+
 > **Abstract:** *Smart surveillance technology is becoming increasingly prevalent nowadays with the rise of artificial intelligence aiming for more precise and effective security systems, where face recognition is an important part of it. While the technology of identifying faces has been rapidly growing, in some cases, surveillance cameras can only catch some parts of a face, where computer generation of the whole face comes handy. To address this issue, this paper proposes a new Standard Deviation Loss to increase variety of output images, eliminating mode collapse, along with an approach for eye-to-face synthesis by using a generative autoencoder model with feature loss (using the VGG19 model).*  
 
 **Research status:** On-going and preparing for publication    
@@ -67,6 +68,7 @@ Luo Steven Tin Sui, Justin Lam, Angel Au
 Chan Lap Yan Lennon, Luo Steven Tin Sui, Kong Chi Yui, Cheng Shing Chi Justin  
 **Paper:**
 [PDF of paper](https://github.com/SpccAIPG/2019-2020/blob/main/DOCS/PDF/Universal%20Solution%20to%20Extension%20and%20Translation%20of%20Fonts%20Across%20Languages.pdf)
+
 **Research status:**  
 On-going and preparing for publication  
 **Github status:** Paper uploaded; Code Uploading...
@@ -78,6 +80,7 @@ On-going and preparing for publication
 Ally Lo, Grace Tong, Luo Steven Tin Sui, Olga Chan  
 **Paper:**
 [PDF of paper](https://github.com/SpccAIPG/2019-2020/blob/main/DOCS/PDF/Computational%20Content%20Classification%20of%20Traditional%20Chinese%20poems.pdf)
+
 **Research status:** Complete  
 **Github status:** Paper uploaded; Code Uploading...
 ## Non-line-of-sight (NLOS) Object Classification 
