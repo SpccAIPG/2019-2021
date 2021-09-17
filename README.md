@@ -21,7 +21,6 @@
 Luo Steven Tin Sui, Woody Lam, Julian Chu, Samuel Yau  
 **Awards:**  
 Special Prize -- First Sensetime International Artificial Intelligence Fair; Champion -- Sensetime x CUHK AI Competition for Secondary Schools; Intel ISEF Regional Finalist  
-
 **Paper:**
 [PDF of paper](https://github.com/SpccAIPG/2019-2020/blob/main/DOCS/PDF/Cantonese%20Lip%20Reading.pdf)
 
