@@ -107,4 +107,4 @@ Finalist - The Chinese University of Hong Kong: AI for the Future Project Second
 
 **Research status:** On-going
 
- **Github status:** Presentation and [Jupyter Notebook](CUHK AEye for Submission.ipynb) for training and testing uploaded 
+ **Github status:** Presentation and [Jupyter Notebook](https://github.com/SpccAIPG/2019-2020/blob/main/DOCS/CUHK%20AI%20for%20the%20Future%20Project%202021/CUHK%20AEye%20for%20Submission.ipynb) for training and testing uploaded 
