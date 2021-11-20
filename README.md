@@ -91,3 +91,13 @@ Ally Lo, Grace Tong, Luo Steven Tin Sui, Olga Chan
 Lee Shun Yat, Tang Justin Kit Hang, Luo Steven Tin Sui  
 **Research status:** On-going (preliminary research)  
 **Github status:** Preliminary investigation results uploaded
+
+## AEye- Solution to Sign Language Recognition Assisted by Mask Movements
+> **Abstract:** *Wearing masks has become the ‘new normal’ under the COVID pandemic. However, masks obstruct the observation of facial expressions and mouth movements, which causes confusion for the mute and deaf who communicate with sign language. Yet, we observed how enunciating different words would generate unique mask motion. Our proposal, AEye, exploits such feature by an AI model that analyzes sign languages in tandem with mask movements. A small camera is attached to a pair of glasses. Instant video feed is transmitted to a smart phone which displays the translated characters. Not only can our proposal resolve communication problems faced by the mute and deaf under the pandemic, but it can also raise public awareness on the disabled.*
+**Contributors:** 
+TANG Justin, SEE Matthew, CHEUNG Dione, CHAN Anthony, WONG Angus, MA Lucas, OR Esther  
+**Awards:**
+Finalist - The Chinese University of Hong Kong: AI for the Future Project Secondary Schools Think and Create Competition 2021 
+**Presentation:** [PPT](https://github.com/SpccAIPG/2019-2020/blob/main/DOCS/CUHK%20AI%20for%20the%20Future%20Project%202021/SPCC%20CUHK%20AEye%20PPT.pptx) 
+**Research status:** On-going 
+**Github status:** Presentation and Jupyter Notebook for training and testing uploaded 
