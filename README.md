@@ -100,6 +100,9 @@ Lee Shun Yat, Tang Justin Kit Hang, Luo Steven Tin Sui
 TANG Justin, SEE Matthew, CHEUNG Dione, CHAN Anthony, WONG Angus, MA Lucas, OR Esther  
 **Awards:**
 Finalist - The Chinese University of Hong Kong: AI for the Future Project Secondary Schools Think and Create Competition 2021 
-**Presentation:** [PPT](https://github.com/SpccAIPG/2019-2020/blob/main/DOCS/CUHK%20AI%20for%20the%20Future%20Project%202021/SPCC%20CUHK%20AEye%20PPT.pptx) 
-**Research status:** On-going 
-**Github status:** Presentation and Jupyter Notebook for training and testing uploaded 
+**Presentation:** 
+[PPT of presentation](https://github.com/SpccAIPG/2019-2020/blob/main/DOCS/CUHK%20AI%20for%20the%20Future%20Project%202021/SPCC%20CUHK%20AEye%20PPT.pptx) 
+
+**Research status:** On-going
+
+ **Github status:** Presentation and Jupyter Notebook for training and testing uploaded 
